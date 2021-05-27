@@ -1,6 +1,6 @@
-# animationsplash
+# Flutter Soundcloud SplashScreen Clone
 
-A new Flutter application.
+Clone of soundcloud splashscreen in flutter
 
 ## Getting Started
 
